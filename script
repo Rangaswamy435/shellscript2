@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -lrt
+wc -l f1
